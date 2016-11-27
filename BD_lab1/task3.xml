@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <data>
+    <product id="1">
+      <name>
+            Моноблок Apple iMac A1419 27" Retina 5K (Z0SC001B4)        </name>
+      <price> 145 199 </price>
+      <image>http://img1.moyo.ua/img/products/1945/42_200x_1461801972.jpg</image>
+    </product>
+    <product id="2">
+      <name>
+            Ноутбук APPLE A1398 MacBook Pro 15.4" Retina (Z0RG0023K)        </name>
+      <price> 109 799 </price>
+      <image>http://img1.moyo.ua/img/products/2592/71_200x_1464921386.jpg</image>
+    </product>
+    <product id="3">
+      <name>
+            Ноутбук Apple A1398 MacBook Pro 15.4" Retina (MJLT2UA/A)        </name>
+      <price> 83 199 </price>
+      <image>http://img1.moyo.ua/img/products/1141/7_200x_1464921422.jpg</image>
+    </product>
+    <product id="4">
+      <name>
+            Ноутбук APPLE A1502 MacBook Pro Retina 13" (Z0QP002NP)        </name>
+      <price> 77 199 </price>
+      <image>http://img1.moyo.ua/img/products/2158/92_200x_1464842344.jpg</image>
+    </product>
+    <product id="5">
+      <name>
+            Ноутбук APPLE A1502 MacBook Pro 13.3 Retina (Z0QN0020E)        </name>
+      <price> 70 299 </price>
+      <image>http://img1.moyo.ua/img/products/2656/5_200x_1466651914.jpg</image>
+    </product>
+    <product id="6">
+      <name>
+            Моноблок Apple iMac A1419 27" Retina 5K (MK472UA/A)        </name>
+      <price> 70 099 </price>
+      <image>http://img1.moyo.ua/img/products/1954/71_200x_1461801995.png</image>
+    </product>
+    <product id="7">
+      <name>
+            Ноутбук Apple A1398 MacBook Pro 15.4" Retina (MJLQ2UA/A)        </name>
+      <price> 66 399 </price>
+      <image>http://img1.moyo.ua/img/products/1141/8_200x_1464921423.jpg</image>
+    </product>
+    <product id="8">
+      <name>
+            Моноблок Apple A1419 iMac 27" Retina 5K (MK462UA/A)        </name>
+      <price> 63 299 </price>
+      <image>http://img1.moyo.ua/img/products/1961/71_200x_1461802021.jpg</image>
+    </product>
+    <product id="9">
+      <name>
+            Ноутбук Apple A1502 MacBook Pro (MF841UA/A)        </name>
+      <price> 61 399 </price>
+      <image>http://img1.moyo.ua/img/products/882/5_200x_1464842342.jpg</image>
+    </product>
+    <product id="10">
+      <name>
+            Ноутбук Apple A1534 MacBook 12" Retina (Z0RX0002N)         </name>
+      <price> 59 999 </price>
+      <image>http://img1.moyo.ua/img/products/1075/59_200x_1461796412.jpg</image>
+    </product>
+    <product id="11">
+      <name>
+            Ноутбук APPLE A1502 MacBook Pro Retina 13.3" (Z0QN001VE)        </name>
+      <price> 59 699 </price>
+      <image>http://img1.moyo.ua/img/products/2414/2_200x_1464842345.jpg</image>
+    </product>
+    <product id="12">
+      <name>
+            Ноутбук APPLE A1534 MacBook 12" Retina (Z0TE0002C) 2016 Rose Gold        </name>
+      <price> 59 399 </price>
+      <image>http://img1.moyo.ua/img/products/2597/13_200x_1464926637.jpg</image>
+    </product>
+    <product id="13">
+      <name>
+            Ноутбук APPLE A1534 MacBook 12 Retina (Z0SP0003X)        </name>
+      <price> 56 799 </price>
+      <image>http://img1.moyo.ua/img/products/2656/19_200x_1466651980.jpg</image>
+    </product>
+    <product id="14">
+      <name>
+            Ноутбук Apple MacBook Air 13" (Z0P0000N2) Haswell        </name>
+      <price> 55 999 </price>
+      <image>http://img1.moyo.ua/img/products/364/14_200x_1461791520.jpg</image>
+    </product>
+    <product id="15">
+      <name>
+            Ноутбук APPLE A1534 MacBook 12" Retina (MLHC2UA/A) 2016 Silver        </name>
+      <price> 54 399 </price>
+      <image>http://img1.moyo.ua/img/products/2592/34_200x_1464928803.jpg</image>
+    </product>
+    <product id="16">
+      <name>
+            Ноутбук APPLE A1534 MacBook 12" Retina (MLHF2UA/A) 2016 Gold        </name>
+      <price> 54 399 </price>
+      <image>http://img1.moyo.ua/img/products/2592/70_200x_1464928644.jpg</image>
+    </product>
+    <product id="17">
+      <name>
+            Ноутбук APPLE A1534 MacBook 12" Retina (MLH82UA/A) 2016 Space Gray        </name>
+      <price> 54 399 </price>
+      <image>http://img1.moyo.ua/img/products/2593/74_200x_1464928497.jpg</image>
+    </product>
+    <product id="18">
+      <name>
+            Ноутбук APPLE A1534 MacBook 12" Retina (MMGM2UA/A) 2016 Rose Gold        </name>
+      <price> 54 399 </price>
+      <image>http://img1.moyo.ua/img/products/2596/14_200x_1464926712.jpg</image>
+    </product>
+    <product id="19">
+      <name>
+            Моноблок Apple iMac A1418 21.5" Retina 4K (MK452UA/A)        </name>
+      <price> 53 299 </price>
+      <image>http://img1.moyo.ua/img/products/1911/77_200x_1461801818.jpg</image>
+    </product>
+    <product id="20">
+      <name>
+            Ноутбук Apple A1502 MacBook Pro (MF840UA/A)        </name>
+      <price> 51 199 </price>
+      <image>http://img1.moyo.ua/img/products/881/89_200x_1464842341.jpg</image>
+    </product>
+    <product id="21">
+      <name>
+            Ноутбук APPLE A1466 MacBook Air 13 (Z0TB000JC)        </name>
+      <price> 50 999 </price>
+      <image>http://img1.moyo.ua/img/products/2655/95_200x_1468901250.jpg</image>
+    </product>
+  </data>
+</root>
